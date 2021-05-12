@@ -1,8 +1,7 @@
 # Firewall
-Anti-ddos básico echo con iptables, si no tienes buen Maquina no pongas esto. o si simplemente eres un inútil no lo pongas  que te vas a  rechazar tu propia conexión se a probado desde maquinas de OVH
+Firewall básico echó con iptables (Algunas públicas, algunas privadas/modificadas por nosotros), si no tienes buen una máquina(VPS/Dedicado) no pongas esto. O si simplemente eres un inútil no lo pongas que te vas a rechazar tu propia conexión se ha probado desde máquinas de OVH
 
 
 
 XYZ CLOUD
 http://hosting-xyz.com/
-https://discord.hosting-xyz.com/
