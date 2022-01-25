@@ -21,14 +21,6 @@ En máquina de OVH ha funcionado satisfactoriamente
 
 
 
-## XYZ CLOUD
-
-* []()
-http://hosting-xyz.com
-* []()
-http://discord.hosting-xyz.com
-
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
